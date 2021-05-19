@@ -1,0 +1,12 @@
+Minhas comidas favoritas!
+1 - Hamburguer;
+2 - Sushi;
+3 - Batata frita;
+4 - Pizza;
+5 - Churrasco;
+6 - Macarronada;
+7 - Camarão empando;
+8 - Acarajé;
+9 - Feijoada;
+10 - Coxinha;
+
